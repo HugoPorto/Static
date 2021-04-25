@@ -1,0 +1,2 @@
+# Static
+# Estudo sobre static
